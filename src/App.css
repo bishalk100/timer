@@ -1,0 +1,63 @@
+.App{
+  background-image: url("./background.jpg");
+  background-color:teal;
+  background-size: cover;
+ background-position: center center;
+ background-attachment: fixed;
+ 
+  
+}
+.timer {
+  height: 100vh;
+  width: 100vw;
+  
+  margin: 20px auto;
+  text-align: center;
+  
+  padding: 4rem;
+  border-radius: 20px;
+  
+}
+.card__heading{
+  text-align: center;
+  
+  color: rgb(250, 245, 250);
+  position: center;
+  margin: 0;
+}
+
+.input{
+  text-align: center;
+  
+  height: 100vh;
+  width: 100vw;
+  
+}
+.button{
+  background-color: rgb(53, 253, 53);
+  width: auto;
+  height: auto;
+  margin: 1em;
+}
+.inputbox{
+  background-color: rgb(78, 253, 253);
+  height: 2em;
+  margin-top: 85px;
+
+}
+
+.copyright{
+  position: fixed;
+  width:100%;
+  left:0;
+  bottom:0;
+  color:rgb(182, 252, 78);
+  font-family:sans-serif;
+  font-size: 1em;
+
+}
+
+
+
+
+
